@@ -1,0 +1,12 @@
+C:\Users\Igor\source\repos\LibraryWPF\SerializeDesLib\bin\Debug\net6.0\SerializeDesLib.deps.json
+C:\Users\Igor\source\repos\LibraryWPF\SerializeDesLib\bin\Debug\net6.0\SerializeDesLib.dll
+C:\Users\Igor\source\repos\LibraryWPF\SerializeDesLib\bin\Debug\net6.0\SerializeDesLib.pdb
+C:\Users\Igor\source\repos\LibraryWPF\SerializeDesLib\obj\Debug\net6.0\SerializeDesLib.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\LibraryWPF\SerializeDesLib\obj\Debug\net6.0\SerializeDesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\LibraryWPF\SerializeDesLib\obj\Debug\net6.0\SerializeDesLib.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\LibraryWPF\SerializeDesLib\obj\Debug\net6.0\SerializeDesLib.AssemblyInfo.cs
+C:\Users\Igor\source\repos\LibraryWPF\SerializeDesLib\obj\Debug\net6.0\SerializeDesLib.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\LibraryWPF\SerializeDesLib\obj\Debug\net6.0\SerializeDesLib.dll
+C:\Users\Igor\source\repos\LibraryWPF\SerializeDesLib\obj\Debug\net6.0\refint\SerializeDesLib.dll
+C:\Users\Igor\source\repos\LibraryWPF\SerializeDesLib\obj\Debug\net6.0\SerializeDesLib.pdb
+C:\Users\Igor\source\repos\LibraryWPF\SerializeDesLib\obj\Debug\net6.0\ref\SerializeDesLib.dll
